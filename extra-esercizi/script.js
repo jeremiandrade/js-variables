@@ -63,7 +63,7 @@ const language = 'javascript'; // NON MODIFICARE QUESTA RIGA
 // 3. Template literal
 // Sostituisci null concatenando le variabili 'greeting' e 'user' 
 // usando la sintassi dei template literal (`${var}`)
-const welcomeMessage = null;
+const welcomeMessage = `${greeting} ${user}`;
 console.log(welcomeMessage); // Output: "Buongiorno Marco"
 
 // 4. Lunghezza della stringa
