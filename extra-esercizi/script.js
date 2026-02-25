@@ -33,7 +33,8 @@ console.log(complexMath); // Output: 30
 // Stampa il valore nella console.
 // (Scrivi il tuo codice qui sotto)
 
-
+let favoriteColor = 'blue';
+console.log(favoriteColor);
 
 // 2. Tipi primitivi
 // Crea tre variabili chiamate 'age', 'hobby' e 'isStudent' e assegna rispettivamente
