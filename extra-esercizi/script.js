@@ -23,7 +23,7 @@ console.log(divValues); // Output: 4
 
 // 5. Imposta questa variabile come la differenza tra valOne e valTwo, il tutto moltiplicato per valThree
 // (Suggerimento: usa le parentesi)
-const complexMath = NaN;
+const complexMath = (valOne - valTwo) * valThree;
 console.log(complexMath); // Output: 30
 
 // ------------------------------------------------------------------
