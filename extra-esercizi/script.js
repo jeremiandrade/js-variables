@@ -10,7 +10,7 @@ const sumValues = valOne + valTwo;
 console.log(sumValues); // Output: 25
 
 // 2. Imposta questa variabile come differenza tra valOne e valThree
-const diffValues = NaN;
+const diffValues = valOne - valThree;
 console.log(diffValues); // Output: 18
 
 // 3. Imposta questa variabile come prodotto di valTwo e valThree
