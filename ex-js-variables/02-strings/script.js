@@ -2,10 +2,23 @@
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
 
+let name = 'Jeremi';
+console.log(name);
+
+
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+
+let number = 15;              
+console.log(number);
+
+let text = 'hello!';
+console.log(text);
+
+let isopen = true;
+console.log(isopen);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
@@ -22,10 +35,7 @@ console.log(fullName); // Output: "Jane Smith"
 const numberOfLettersInAlphabet = null;
 console.log(numberOfLettersInAlphabet); // Output: 26
  
-    let name = Jeremi;
-    console.log(name);
- 
-    let number = 15;
-    console.log(number);
+    
+    
 
     
