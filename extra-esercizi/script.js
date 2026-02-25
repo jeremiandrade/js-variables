@@ -68,25 +68,25 @@ console.log(welcomeMessage); // Output: "Buongiorno Marco"
 
 // 4. Lunghezza della stringa
 // Sostituisci NaN per ottenere la lunghezza della variabile 'animal'
-const animalLength = NaN;
+const animalLength = animal.length;
 console.log(animalLength); // Output: 11
 
 // 5. Cerca un carattere in una stringa
 // Trova l'INDICE con cui viene trovata la lettera 'c' nella variabile 'animal'
-const indexOfC = NaN;
+const indexOfC = animal.indexOf('c');
 console.log(indexOfC); // Output: 4
 
 // 6. Sottostringhe
 // Estrai la sottostringa "gallo" dalla variabile country
-const countrySubstring = null;
+const countrySubstring = country.substring(5,10);
 console.log(countrySubstring); // Output: "gallo"
 
 // 7. Sostituzione
 // Sostituisci 'sole' con 'vento' nella variabile weather
-const weatherReplaced = null;
+const weatherReplaced = weather.replace('sole' , 'vento');
 console.log(weatherReplaced); // Output: "Oggi c'è il vento"
 
 // 8. Tutto in maiuscolo
 // Trasforma in maiuscolo tutta la stringa della variabile language
-const upperCaseLanguage = null;
+const upperCaseLanguage = language.toUpperCase();
 console.log(upperCaseLanguage); // Output: "JAVASCRIPT"
