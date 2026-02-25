@@ -42,7 +42,14 @@ console.log(favoriteColor);
 // Stampa tutti i valori nella console.
 // (Scrivi il tuo codice qui sotto)
 
+let age = 21;
+console.log(age);
 
+let hobby = 'playGame';
+console.log(hobby);
+
+let isStudent = false;
+console.log(isStudent);
 
 // ------------------------------------------------------------------
 
