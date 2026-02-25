@@ -18,7 +18,7 @@ const prodValues = valTwo * valThree;
 console.log(prodValues); // Output: 10
 
 // 4. Imposta questa variabile come divisione di valOne per valTwo
-const divValues = NaN;
+const divValues = valOne / valTwo;
 console.log(divValues); // Output: 4
 
 // 5. Imposta questa variabile come la differenza tra valOne e valTwo, il tutto moltiplicato per valThree
